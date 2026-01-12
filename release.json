@@ -1,0 +1,11 @@
+{
+  version 0.7.0,
+  notes Initial public release,
+  pub_date 2025-01-01T000000Z,
+  platforms {
+    windows-x86_64 {
+      url httpsgithub.comAfterDLifexTodo-Tracker-Releasesreleasesdownloadv0.1.0Todo-Tracker_0.1.0_x64.exe,
+      signature PASTE_SIGNATURE_FROM_.sig_FILE
+    }
+  }
+}
