@@ -1,11 +1,11 @@
 {
-  version 0.7.0,
-  notes Initial public release,
-  pub_date 2025-01-01T000000Z,
-  platforms {
-    windows-x86_64 {
-      url httpsgithub.comAfterDLifexTodo-Tracker-Releasesreleasesdownloadv0.1.0Todo-Tracker_0.1.0_x64.exe,
-      signature PASTE_SIGNATURE_FROM_.sig_FILE
+    "version": "v0.7.0",
+    "notes": "Initial public release",
+    "pub_date": "2024-12-13T05:19:51.744Z",
+    "platforms": {
+        "windows-x86_64": {
+            "url": "https://proquantic.net/app-down/Trutimer-Development_3.9.120_x64_en-US.msi",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUEQ2VjdvdWtINHdFYzhxWHUyTzZYaVhiSnppckIyRGFhYURpMElnZW9TV291cS9VSlJWN3k4V1NvM21uVm5jVVdodWVxUkVSakFuV3hsKzhzOWZGc0lxWk91cjBadmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDg3OTUxCWZpbGU6VHJ1dGltZXItRGV2ZWxvcG1lbnRfMy45LjEyMF94NjRfZW4tVVMubXNpClA2bWlVeDFDSWpCNDBQVjFKVlRaQllXV05tZUdmR1d1RGYwZ2pUd2xhZ3MwaE0wWWJ1eC9EakFaTm1sQ0JJbHFZWFZaMFhpbGU1MUFTSVlzOWEveEFBPT0K"
+        }
     }
-  }
 }
