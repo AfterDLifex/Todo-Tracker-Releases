@@ -1,10 +1,10 @@
 {
-    "version": "v0.7.0",
-    "notes": "Initial public release -- add installer style",
+    "version": "v0.8.0",
+    "notes": "Initial public release -- Testing App auto update",
     "pub_date": "2024-12-13T05:19:51.744Z",
     "platforms": {
         "windows-x86_64": {
-            "url": "https://github.com/AfterDLifex/Todo-Tracker-Releases/releases/download/v0.7.0/Todo-Tracker_0.7.0_x64-setup.exe",
+            "url": "https://github.com/AfterDLifex/Todo-Tracker-Releases/releases/download/v0.8.0/Todo-Tracker_0.8.0_x64-setup.exe",
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3hucmZhRnBLaWN1Z2FmTXVUQ3FDMEJYdkUybHo4SFEvY1FTUUlFc0EvNi9kL0J6RkplajJVRDU2TnoyWWQrVUhPZ0l1RXRVdmpiS1YyRlVUUGFTcStBdVNVTEJyeGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MjQ1NzYyCWZpbGU6VG9kby1UcmFja2VyXzAuNy4wX3g2NC1zZXR1cC5leGUKMmRGT1Qza092L2pqeEx2UWxDVnFpclB2NTBCODNNNjY2YWxzdm4zZWpwNXNnZ0Q3L1p1NnZyUUcxalpCc0lzSUJGL2drZGRXbkZtTjZOTHRnM2E2QUE9PQo="
         }
     }
