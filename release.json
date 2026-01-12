@@ -1,11 +1,11 @@
 {
-    "version": "v0.7.0",
+    "version": "v0.6.0",
     "notes": "Initial public release",
     "pub_date": "2024-12-13T05:19:51.744Z",
     "platforms": {
         "windows-x86_64": {
-            "url": "https://proquantic.net/app-down/Trutimer-Development_3.9.120_x64_en-US.msi",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUEQ2VjdvdWtINHdFYzhxWHUyTzZYaVhiSnppckIyRGFhYURpMElnZW9TV291cS9VSlJWN3k4V1NvM21uVm5jVVdodWVxUkVSakFuV3hsKzhzOWZGc0lxWk91cjBadmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDg3OTUxCWZpbGU6VHJ1dGltZXItRGV2ZWxvcG1lbnRfMy45LjEyMF94NjRfZW4tVVMubXNpClA2bWlVeDFDSWpCNDBQVjFKVlRaQllXV05tZUdmR1d1RGYwZ2pUd2xhZ3MwaE0wWWJ1eC9EakFaTm1sQ0JJbHFZWFZaMFhpbGU1MUFTSVlzOWEveEFBPT0K"
+            "url": "https://github.com/AfterDLifex/Todo-Tracker-Releases/releases/download/v0.6.0/Todo-Tracker_0.6.0_x64_en-US.msi",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3hucmZhRnBLaVdJQWphQVFCRlJKbC9YNTNNS1ErSjBoYzdCbGczV2JWUW5YNjRsMXV5Vm4vZUtUVktGUzVyMU5rOHNXYngzTlFycU01dmZNOHpUWCtmYk1VaGJ5K2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MjEwNjQ4CWZpbGU6VG9kby1UcmFja2VyXzAuNi4wX3g2NF9lbi1VUy5tc2kKM2pWVi9SUzgxMEJpbDV1VTdSWkVDTHdDbzY4d2FjTWhYNENnVkVKdFRhMWd5Q0xvWW9GRW1nSCtScDIxR1oyS2ViTTVqeXFrOWtWQWRmdkhqM0RRQUE9PQo="
         }
     }
 }
