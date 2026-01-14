@@ -1,11 +1,11 @@
 {
-  "version": "0.9.0",
+  "version": "0.10.0",
   "notes": "Initial release v0.9.0 with plugin store toast and design refactor",
   "pub_date": "2026-01-13T06:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/AfterDLifex/Todo-Tracker-Releases/releases/download/v0.9.0/Todo-Tracker_0.9.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3hucmZhRnBLaVd5NXVpc0Z4dUJrRFVWV3hyRU5yZXZQS2Q3aEtIQTdtQ1BlQ0lGekJkVkFaai9kbkw4MGovb3dHdmFva3dQY2VyN1pnbWZEY2NyZHkyTGJiQzcwT2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzM0Nzg0CWZpbGU6VG9kby1UcmFja2VyXzAuOS4wX3g2NC1zZXR1cC5leGUKTExMaGllckNBTFNpOFlNRmJVRzhtMnVsejQ0ZW50Q29NdStVNFNCTk5xc25sYzljNHNUTWRNbG9Kb3A4b2Q0Tk42eDdPYzN6c3Vtd0lEbnFLM3lNQkE9PQo="
+      "url": "https://github.com/AfterDLifex/Todo-Tracker-Releases/releases/download/v0.10.0/Todo-Tracker_0.10.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3hucmZhRnBLaVhVRCt1QXRucUxiME1yTEJHZ3k3RE9meUR4cS9oTTlhRkpuSllZVFBlRUZNOGIxY0pObEQvWXdzcEovREtTenhWdmNoYmtuTVJuQVNWU0g4SVpmeUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzkxMzcwCWZpbGU6VG9kby1UcmFja2VyXzAuMTAuMF94NjQtc2V0dXAuZXhlClB3S3AzVklHZU1uckxDNS9kV3hhNEI2bGIyaWtoWUIrNzJ5eEtYYmkwcU1Gblc4VEdxNTBUY3dibGNCL1JiemxOZm9qUWR6UFNRc0RFK09FN0RjbUN3PT0K"
     }
   }
 }
