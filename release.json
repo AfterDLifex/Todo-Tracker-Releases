@@ -1,11 +1,11 @@
 {
-  "version": "0.10.0",
-  "notes": "Initial release v0.10.0 with App Notification ",
+  "version": "0.11.0",
+  "notes": "Initial release v0.11.0 with App Theme System ",
   "pub_date": "2026-01-13T06:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/AfterDLifex/Todo-Tracker-Releases/releases/download/v0.10.0/Todo-Tracker_0.10.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3hucmZhRnBLaVRTRUUrUFE3bWdqMXFiQlp1SE9kMlA0RldkMHR0d2tMb3c1UDM0aitqWWN3ZmE2c09mZGU3S2NkQU9qOHVBQ3FNUjlON043ZzFJTUxTSFdHdmM2UlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4Mzk1MTU3CWZpbGU6VG9kby1UcmFja2VyXzAuMTAuMF94NjQtc2V0dXAuZXhlCnhORVFQNmt0NVdaWCtOWFJlUVh3c2FhTWNZcnFVSTBuR1h5cm1XLzRDeVU2czUzUHZzTGFxSCtKZTZHOHMyUGx0NUlHb1Nqbko3UXFRZkhkcUs1VUNBPT0K"
+      "url": "https://github.com/AfterDLifex/Todo-Tracker-Releases/releases/download/v0.11.0/Todo-Tracker_0.11.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3hucmZhRnBLaVk4Myt3dnhjc0MxOVJpbjFQcUtwVXFNTlI1aWRyTUZwS1pBVUFJUDI0ZUQrT2R0RXhiMCtGK1hVVkE5cnpJekR6MTJkNWY0QjYvQWEzYjNZdVdzZ2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDEyMDE0CWZpbGU6VG9kby1UcmFja2VyXzAuMTEuMF94NjQtc2V0dXAuZXhlClF6bGZMNlRvSlJlQ3JjV043MzFLWDFmbHc1a2FoVk4yYzRKMXUydnhOL2s5T0JaL0ttclJET29ndEk4azF2QUxydENVUjl3UXFoWFlBMWtGYzVzakNnPT0K"
     }
   }
 }
