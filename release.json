@@ -1,11 +1,11 @@
 {
-  "version": "0.15.0",
-  "notes": "v0.15.0 Pre-release (Jan 18, 2026)",
-  "pub_date": "2026-01-18T13:30:00Z",
+  "version": "0.16.0",
+  "notes": "v0.16.0 Pre-release (Jan 18, 2026)",
+  "pub_date": "2026-01-18T15:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/AfterDLifex/Todo-Tracker-Releases/releases/download/v0.15.0/Todo-Tracker_0.15.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3hucmZhRnBLaVR4RCtNd0gvOGlNczdjOE0yLzgwN21saWYzRkZ0Z3pRbTNpVVdEWTdlSzYydTY1ekVVak81UDJsVTBlTGdZM2Qxb0pHaHhFYk0vQTFOY094YlFVUlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NzUwODkyCWZpbGU6VG9kby1UcmFja2VyXzAuMTUuMF94NjQtc2V0dXAuZXhlCkZXZ0dRcVdJRlNuaHh1WHBBV0hWMUNBMnB6K0ZGTWdXQStXZVZ0QnAxRDVwVUk3b05BY0tKQlBUdVBvR0t6bkdNYXMyb25YbVV6bTN2by9PUGFyNENnPT0K"
+      "url": "https://github.com/AfterDLifex/Todo-Tracker-Releases/releases/download/v0.16.0/Todo-Tracker_0.16.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3hucmZhRnBLaWJNNlVGMVhiSkpXVlUzWExUYThVQllLY0RFdzk2UkhaOEsrYjhTcDdKOElqeVFVQ3hicnc0OWphOHJNeDg1VFdXcTBhS21jV2VGbUhnZXdlcGdGRXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NzU2MTIyCWZpbGU6VG9kby1UcmFja2VyXzAuMTYuMF94NjQtc2V0dXAuZXhlCm5ZZXFVcHlTeXFTSjY1NVc5QjVLQ3dzUGlVNmZHclk4VGQ5WFJwbVprQTJwajdsWG8zNjRaK3ZEZjRCMFZFenpwQnRZZG1lYU82Q1FsTEtkdm5TRURnPT0K"
     }
   }
 }
